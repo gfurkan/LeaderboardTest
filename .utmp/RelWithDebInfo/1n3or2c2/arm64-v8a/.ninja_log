@@ -1,0 +1,21 @@
+# ninja log v5
+106	8089	7474110973440111	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d2d3da7e53b4106f
+74	8686	7474110978601919	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a6b150100bae965e
+98	8992	7474110979961948	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	97595ba8646c6e66
+90	9531	7474110988301907	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b3bd9f10914ccbe0
+8687	10088	7474110993971914	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	cfff48fe4b8c3657
+18	11794	7474111012103158	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	5d80b6a6c9cb44ef
+82	11607	7474111005351910	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	644d7938bc68566d
+8090	14581	7474111040592019	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	fa5b3d5848991685
+10088	15771	7474111036032012	C:/Users/FURKAN/Documents/Github/LeaderboardTest/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1n3or2c2/obj/arm64-v8a/libswappywrapper.so	ef6172476702d47
+14581	16735	7474111049757732	C:/Users/FURKAN/Documents/Github/LeaderboardTest/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1n3or2c2/obj/arm64-v8a/libgame.so	abf0b97c1012df71
+45	6342	7474115543697865	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d2d3da7e53b4106f
+6	7617	7474115551096900	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a6b150100bae965e
+69	8039	7474115555686901	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	fa5b3d5848991685
+36	8096	7474115558586891	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b3bd9f10914ccbe0
+20	8855	7474115566758628	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	644d7938bc68566d
+28	8946	7474115571648660	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	5d80b6a6c9cb44ef
+7617	8988	7474115569978636	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	cfff48fe4b8c3657
+6343	10405	7474115586772193	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	97595ba8646c6e66
+8989	10415	7474115582027695	C:/Users/FURKAN/Documents/Github/LeaderboardTest/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1n3or2c2/obj/arm64-v8a/libswappywrapper.so	ef6172476702d47
+10405	10825	7474115589574004	C:/Users/FURKAN/Documents/Github/LeaderboardTest/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1n3or2c2/obj/arm64-v8a/libgame.so	abf0b97c1012df71

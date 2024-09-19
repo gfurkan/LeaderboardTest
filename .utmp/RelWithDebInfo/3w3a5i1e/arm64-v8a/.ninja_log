@@ -1,0 +1,21 @@
+# ninja log v5
+106	7436	7475295198883417	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4f2d50584a505de5
+10354	11753	7475295242240258	C:/Users/FURKAN/Documents/Github/LeaderboardTest/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3w3a5i1e/obj/arm64-v8a/libswappywrapper.so	ac1120efe007a473
+27	8314	7475295207893609	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	957070ad067dc581
+114	7880	7475295201779179	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	332f6447c0e39f7e
+19	7895	7475295202339189	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	44954c9ccbf16234
+7880	10243	7475295219832487	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	6bb7b0dbe1bccd40
+8	11017	7475295231779419	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	6d21ba6afb7c7c97
+98	9451	7475295217272519	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	815d3f021ec1d152
+7437	11907	7475295244470216	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ecc9ef2c347432b5
+11907	12141	7475295246053422	C:/Users/FURKAN/Documents/Github/LeaderboardTest/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3w3a5i1e/obj/arm64-v8a/libgame.so	67ad43660e45593f
+42	2356	7475758496694294	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4f2d50584a505de5
+18	2408	7475758497564299	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	44954c9ccbf16234
+35	2690	7475758500359633	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ecc9ef2c347432b5
+2409	2870	7475758501344902	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	6bb7b0dbe1bccd40
+4	2944	7475758502910129	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	957070ad067dc581
+11	3335	7475758506910162	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	815d3f021ec1d152
+2870	3365	7475758505920204	C:/Users/FURKAN/Documents/Github/LeaderboardTest/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3w3a5i1e/obj/arm64-v8a/libswappywrapper.so	ac1120efe007a473
+25	3524	7475758508605348	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	6d21ba6afb7c7c97
+2356	4086	7475758514630689	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	332f6447c0e39f7e
+4086	4294	7475758516036308	C:/Users/FURKAN/Documents/Github/LeaderboardTest/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3w3a5i1e/obj/arm64-v8a/libgame.so	67ad43660e45593f
