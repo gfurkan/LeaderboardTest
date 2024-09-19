@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079800591577",
+    "project_id": "savvy-music-434720-t9",
+    "storage_bucket": "savvy-music-434720-t9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079800591577:android:35d5f58253236a4f603ac8",
+        "android_client_info": {
+          "package_name": "com.Furkan.LeaderboardTest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4VnlloVmfIStBXtec5UBY4-5Wre-5k9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

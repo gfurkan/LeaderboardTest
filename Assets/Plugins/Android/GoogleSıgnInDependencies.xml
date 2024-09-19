@@ -1,0 +1,4 @@
+<dependencies>
+    <androidPackage spec="com.google.android.gms:play-services-auth:19.0.0" />
+    <androidPackage spec="com.google.firebase:firebase-auth:21.0.1" />
+</dependencies>
